@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NoMat Yuk!</string>
+    <string name="order_ticket">Pesan Tiket</string>
+    <string name="bagikan">Share</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top">Top fragment</string>
+
+
+    <string name="home_tab">Home</string>
+    <string name="horror_tab">Horror</string>
+    <string name="adventure_tab">Adventure</string>
+    <string name="scifi_tab">Sci-Fi</string>
+    <string name="order_name_hint">Judul film yang diinginkan?</string>
+    <string name="order_details_hint">Untuk tanggal berapa?</string>
+</resources>
